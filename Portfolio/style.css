@@ -1,0 +1,30 @@
+#desc {
+    height: 300px;
+    width : 1000px;
+    background-color: brown;
+    margin: 10px;
+    position: relative;
+    background-repeat: no-repeat;
+
+}
+
+#img {
+    height: 300px;
+    width : 300px;
+    background-color: rgb(20, 160, 30);
+    margin: 10px;
+    position: relative;
+
+
+}
+
+li{
+    color:"green";
+}
+
+/* .headname{
+    font-size: 40px;
+    font-weight: 500;.
+    color: #fff;;
+
+} */
